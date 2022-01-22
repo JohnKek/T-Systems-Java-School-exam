@@ -12,8 +12,8 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Tatarinov Igor
-* Codeship : {PUT YOUR CODESHIP BAGDE HERE}
-
+* Codeship : https://app.circleci.com/pipelines/github/JohnKek
+https://sun9-59.userapi.com/impg/UOIb6C0uvFC6XMlejIFxZHhsSzyGPHkFmfqeiw/dAl6ZZoQeg8.jpg?size=1561x136&quality=96&sign=21eb3153971d22a1e7aea85d145fbdfe&type=album
 Example of Codeship badge. Please remove the example before you send us the link. 
 [ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/a9af8940-d130-0134-89a6-5e8aaaa2a5a2/status?branch=master)](https://app.codeship.com/projects/201451)
 
